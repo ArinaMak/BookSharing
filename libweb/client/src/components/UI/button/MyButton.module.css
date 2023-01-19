@@ -1,0 +1,52 @@
+.myBtn {
+    padding: 5px 15px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    background: #6f48eb;
+    border: 1px solid #6f48eb;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.myBtn:hover {
+    background: #DCD4F7;
+    color: #6f48eb;
+    border: 1px solid #DCD4F7;
+}
+
+.myBtn:active {
+     background: #6f48eb;
+     border: 3px solid #6f48eb;
+     color: white;
+}
+
+
+
+.myBtn2 {
+    background: #fff;
+    border: none;
+    cursor: pointer;
+    margin: 15px 0 0 5px;
+    display: inline-block;
+}
+
+.myBtn3 {
+    color: white;
+    background: #6f48eb;
+    font-size: 40px;
+    border: 2px solid #6f48eb;
+    border-radius: 5px;
+}
+.myBtn3:hover {
+    background: #DCD4F7;
+    color: #6f48eb;
+    border: 2px solid #DCD4F7;
+}
+
+.myBtn3:active {
+     background: #6f48eb;
+     color: white;
+     border: 2px solid #6f48eb;
+}
