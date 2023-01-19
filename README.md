@@ -29,3 +29,13 @@ Web-приложение для обмена книгами _(book sharing)_.
     - npm i cors
   - **Запускаем**
     - node index.js
+
+![](https://github.com/ArinaMak/BookSharing/blob/main/libweb/pictures/1.PNG)
+![](https://github.com/ArinaMak/BookSharing/blob/main/libweb/pictures/2.PNG)
+![](https://github.com/ArinaMak/BookSharing/blob/main/libweb/pictures/3.PNG)
+![](https://github.com/ArinaMak/BookSharing/blob/main/libweb/pictures/4.PNG)
+![](https://github.com/ArinaMak/BookSharing/blob/main/libweb/pictures/5.PNG)
+![](https://github.com/ArinaMak/BookSharing/blob/main/libweb/pictures/6.PNG)
+![](https://github.com/ArinaMak/BookSharing/blob/main/libweb/pictures/7.PNG)
+![](https://github.com/ArinaMak/BookSharing/blob/main/libweb/pictures/8.PNG)
+![](https://github.com/ArinaMak/BookSharing/blob/main/libweb/pictures/9.PNG)
